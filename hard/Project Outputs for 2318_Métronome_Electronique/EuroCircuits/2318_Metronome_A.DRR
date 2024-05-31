@@ -1,0 +1,26 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: 2318_Metronome_A.PcbDoc   21.03.2024  12:59:47
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : 2318_Metronome_A-RoundHoles.TXT
+ASCII SlotHoles File : 2318_Metronome_A-SlotHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.3mm (12mil)                                             Round             159       PTH        1435.10mm (56.50inch)
+T2      0.6mm (24mil)                                             Slot              4         PTH        38.14mm (1.50inch)
+T3      0.714mm (28mil)                                           Round             3         PTH        8.67mm (0.34inch)
+T4      1mm (39mil)                                               Round             10        PTH        119.50mm (4.70inch)
+T5      1.02mm (40mil)                                            Round             40        PTH        187.92mm (7.40inch)
+T6      1.1mm (43mil)                                             Round             6         PTH        20.32mm (0.80inch)
+T7      1.6mm (63mil)                                             Round             36        PTH        734.86mm (28.93inch)
+T8      2mm (79mil)                                               Slot              4         PTH        126.25mm (4.97inch)
+T9      0.65mm (26mil)                                            Round             2         NPTH       5.78mm (0.23inch)
+T10     2.388mm (94mil)                                           Round             1         NPTH       0.00mm (0.00inch)
+T11     3.45mm (136mil)                                           Round             2         NPTH       57.52mm (2.26inch)
+T12     5.2mm (205mil)                                            Round             8         NPTH       475.60mm (18.72inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              275
+
+Total Processing Time (hh:mm:ss) : 00:00:00

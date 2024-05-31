@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [2318_Metronome_A.PcbDoc]
+   Generated File[2318_Metronome_A-RoundHoles.TXT]
+   Generated File[2318_Metronome_A-SlotHoles.TXT]
+   Generated File[2318_Metronome_A.LDP]
+   Generated File[2318_Metronome_A.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 12:59:47 On 21.03.2024

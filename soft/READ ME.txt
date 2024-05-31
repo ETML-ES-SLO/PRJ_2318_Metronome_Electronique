@@ -1,0 +1,15 @@
+Pojet K:\ES\PROJETS\SLO\2318_MetronomeElectronique
+---------------------------------------------------
+
+Voir projet 1706 - Spectromètre pour utilisation du LCD
+
+Etat du FW :
+-LCD pas mis en service, pas fonctionnel (voir projet 1706)
+-contrôleur touch pas mis en service, pas fonctionnel
+
+HW
+-alim ok, chargement et utilisation accu ok
+-buzzer ok
+-HW PEC12 mais FW pas programmé fonctionnel
+-contrôler système de mise sous tension et maintien alim
+-mesure ADC tension accu pas testé
